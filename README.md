@@ -1,25 +1,25 @@
-<p align="center">
-  <a href="https://github.com/alvaroauth/AyED">
-    <img src="https://img.shields.io/badge/AyED-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/alvaroauth/FOD">
-    <img src="https://img.shields.io/badge/FOD-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/alvaroauth/DotNet">
-    <img src="https://img.shields.io/badge/.NET-GitHub-512BD4?style=for-the-badge&logo=dotnet" />
-  </a>
-  <a href="https://github.com/alvaroauth/ISO">
-    <img src="https://img.shields.io/badge/ISO-GitHub-181717?style=for-the-badge&logo=linux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/alvaroauth/INGE--1">
-    <img src="https://img.shields.io/badge/INGE_1-GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/alvaroauth/OO1">
-    <img src="https://img.shields.io/badge/OO1-GitHub-181717?style=for-the-badge&logo=java" />
-  </a>
-  <a href="https://github.com/alvaroauth/DBD">
-    <img src="https://img.shields.io/badge/DBD-GitHub-181717?style=for-the-badge&logo=postgresql" />
-  </a>
-</p>
+<h1> Licenciatura en Sistemas - UNLP </h1>
+<div align="center">
+    <h3 align="center"><b>Segundo Año</b></h3>
+    <a href="https://github.com/alvaroauth/AyED">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=AyED&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/alvaroauth/FOD">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=FOD&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/alvaroauth/DotNet">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=DotNet&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/alvaroauth/ISO">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=ISO&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/alvaroauth/INGE-1">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/alvaroauth/OO1">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=OO1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+    <a href="https://github.com/alvaroauth/DBD">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=DBD&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    </a>
+</div>
