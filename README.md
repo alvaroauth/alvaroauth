@@ -2,24 +2,24 @@
 <div align="center">
     <h3 align="center"><b>Segundo Año</b></h3>
     <a href="https://github.com/alvaroauth/AyED">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=AyED&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=AyED&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
     <a href="https://github.com/alvaroauth/FOD">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=FOD&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=FOD&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
-    <a href="https://github.com/alvaroauth/DotNet">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=DotNet&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    <br> <a href="https://github.com/alvaroauth/DotNet">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=DotNet&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
     <a href="https://github.com/alvaroauth/ISO">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=ISO&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=ISO&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
-    <a href="https://github.com/alvaroauth/INGE-1">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    <br> <a href="https://github.com/alvaroauth/INGE-1">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=INGE-1&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
     <a href="https://github.com/alvaroauth/OO1">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=OO1&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=OO1&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
-    <a href="https://github.com/alvaroauth/DBD">
-        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=DBD&theme=midnight-purple&bg_color=1F222E&border_color=6a0dad&icon_color=F8D866&show_icons=false" style="margin: 10px;">
+    <br> <a href="https://github.com/alvaroauth/DBD">
+        <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=alvaroauth&repo=DBD&theme=midnight-purple&bg_color=1F222E&border_color=F8D866&title_color=F8D866&icon_color=F8D866&show_icons=false" style="margin: 10px;">
     </a>
 </div>
