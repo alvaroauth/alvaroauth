@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="132" viewBox="0 0 420 132" role="img" aria-label="Proyecto de Software">
+<title>Proyecto de Software</title>
+<style>
+  .bg{fill:#ffffff;stroke:#d0d7de}
+  .tx{fill:#1f2328}.mu{fill:#59636e}.ln{stroke:#d0d7de}
+  .a-prog{fill:#0969da}.s-prog{stroke:#0969da}.a-sis{fill:#9a6700}.s-sis{stroke:#9a6700}.a-inge{fill:#8250df}.s-inge{stroke:#8250df}.a-datos{fill:#1a7f37}.s-datos{stroke:#1a7f37}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117;stroke:#30363d}
+    .tx{fill:#e6edf3}.mu{fill:#9198a1}.ln{stroke:#30363d}
+    .a-prog{fill:#58a6ff}.s-prog{stroke:#58a6ff}.a-sis{fill:#e3b341}.s-sis{stroke:#e3b341}.a-inge{fill:#bc8cff}.s-inge{stroke:#bc8cff}.a-datos{fill:#3fb950}.s-datos{stroke:#3fb950}
+  }
+</style>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif">
+  <rect class="bg" x="0.5" y="0.5" width="419" height="131" rx="10"/>
+  <rect class="a-inge" x="0.5" y="22" width="4" height="34" rx="2"/>
+  <text x="24" y="48" class="a-inge" font-size="26" font-weight="700" letter-spacing="-0.5">PdS</text>
+  <text x="398" y="44" class="mu" font-size="12" text-anchor="end">3.º año, 2.º semestre</text>
+  <text x="24" y="78" class="tx" font-size="14.5">Proyecto de Software</text>
+  <text x="24" y="116" class="mu" font-size="12">Ingeniería de software</text>
+</g>
+</svg>
