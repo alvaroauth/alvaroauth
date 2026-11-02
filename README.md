@@ -1,5 +1,4 @@
 <h1 align="center">Licenciatura en Sistemas, UNLP</h1>
-<p align="center">Un repositorio por materia, ordenados por año y cuatrimestre.</p>
 
 ## Primer año
 
